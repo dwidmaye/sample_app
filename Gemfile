@@ -8,6 +8,8 @@ gem 'rails', '3.1.3'
 gem 'sqlite3'
 gem 'gravatar_image_tag'
 
+gem 'activerecord-postgresql-adapter'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
